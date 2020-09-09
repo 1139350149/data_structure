@@ -1,0 +1,3 @@
+﻿  main.cpp
+g:\date_structure\graph_tree\graph_tree\main.cpp(9): warning C4101: “primRes”: 未引用的局部变量
+  Graph_Tree.vcxproj -> G:\date_structure\Graph_Tree\Debug\Graph_Tree.exe
