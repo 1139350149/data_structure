@@ -1,0 +1,5 @@
+﻿  Binary.cpp
+g:\date_structure\binarysearchtree\binarysearchtree\searchtree.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\date_structure\binarysearchtree\binarysearchtree\threadtree.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\date_structure\binarysearchtree\binarysearchtree\heap.h(212): warning C4715: “BinaryTree::MaxHeap<int>::remove”: 不是所有的控件路径都返回值
+  BinarySearchTree.vcxproj -> G:\date_structure\BinarySearchTree\Debug\BinarySearchTree.exe
