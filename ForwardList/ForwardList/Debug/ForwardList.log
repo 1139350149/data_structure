@@ -1,0 +1,3 @@
+﻿  main.cpp
+g:\date_structure\forwardlist\forwardlist\forwardlist.h(236): warning C4715: “ForwardList<int>::data”: 不是所有的控件路径都返回值
+  ForwardList.vcxproj -> G:\date_structure\ForwardList\Debug\ForwardList.exe
